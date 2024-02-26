@@ -201,6 +201,8 @@ https://modrinth.com/mod/factions
 No More Void
 https://modrinth.com/mod/no-more-void
 
+GoProne
+https://www.curseforge.com/minecraft/mc-mods/goprone
 Waystones
 https://modrinth.com/mod/waystones
 
