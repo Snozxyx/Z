@@ -208,3 +208,9 @@ https://modrinth.com/mod/waystones
 
 Movebable Spawner
 https://modrinth.com/datapack/movable-spawners
+
+LifeSteal:
+https://www.curseforge.com/minecraft/mc-mods/lifesteal-forge-fabric/files/4583403
+
+Voice Chat
+https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
