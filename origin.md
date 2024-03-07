@@ -358,6 +358,9 @@ Resource.rar
     Attacks on colorless foes (unmarked by Chromatic Perception) deal 25% less damage.
 
     👁️ Observer
+
+Luffy
+    https://discord.com/channels/734127708488859831/1186145689172971551/1208956254987362355
     Your desires for a stationary perch make you move slower by default.
 
     Origintober Week 2: Eye (I guess I am doing every other week now)
