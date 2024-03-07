@@ -362,6 +362,8 @@ Resource.rar
 Luffy
     https://discord.com/channels/734127708488859831/1186145689172971551/1208956254987362355
     Your desires for a stationary perch make you move slower by default.
+GOku 
+https://discord.com/channels/734127708488859831/1203655609887494184/1203655609887494184
 
     Origintober Week 2: Eye (I guess I am doing every other week now)
 
